@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(123, 210, 210);
+    font-size: 30px;
+    color: black;
+}
+
+/* css comment */
+/* Margin Padding Border*/
+
+p{
+    color:#FFCC00;
+}
+h1{
+    font-size: 50px;
+    color: blueviolet;
+}
+span {
+color: crimson; font-size: 60px;
+}
+.nature {
+    background-color:chocolate;
+}
+.transportation {
+    background-color:bisque ;
+}
+.first-prg {
+    font-size: 60px;
+}
+.second-prg {
+    font-size: 10px;
+}
+.dolore {
+    color: fuchsia;
+}
+.veniam {
+    color: hotpink;
+}

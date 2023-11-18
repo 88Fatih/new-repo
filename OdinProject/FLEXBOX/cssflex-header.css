@@ -1,0 +1,14 @@
+.parent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
